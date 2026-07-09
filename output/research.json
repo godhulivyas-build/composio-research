@@ -1,0 +1,1914 @@
+[
+  {
+    "appName": "Slack",
+    "description": "# Documentation Page  **Source**: https://api.slack.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "authMethods": [
+      "OAuth2"
+    ],
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "API type unclear",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "authMethods": [
+        "OAuth2"
+      ],
+      "description": "# Documentation Page  **Source**: https://api.slack.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "API type unclear"
+    },
+    "timestamp": "2026-07-09T00:02:52.554Z"
+  },
+  {
+    "appName": "Stripe",
+    "description": "# Documentation Page  **Source**: https://stripe.com/docs/api  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Instal",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://stripe.com/docs/api  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Instal",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:52.623Z"
+  },
+  {
+    "appName": "HubSpot",
+    "description": "# Documentation Page  **Source**: https://developers.hubspot.com/docs/api/overview  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in you",
+    "authMethods": [
+      "OAuth2"
+    ],
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "API type unclear",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "authMethods": [
+        "OAuth2"
+      ],
+      "description": "# Documentation Page  **Source**: https://developers.hubspot.com/docs/api/overview  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in you",
+      "integrationBlocker": "API type unclear"
+    },
+    "timestamp": "2026-07-09T00:02:52.695Z"
+  },
+  {
+    "appName": "Salesforce",
+    "description": "# Documentation Page  **Source**: https://salesforce.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Instal",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://salesforce.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Instal",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:52.782Z"
+  },
+  {
+    "appName": "Pipedrive",
+    "description": "# Documentation Page  **Source**: https://pipedrive.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://pipedrive.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:52.859Z"
+  },
+  {
+    "appName": "Zendesk",
+    "description": "# Documentation Page  **Source**: https://zendesk.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://zendesk.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:52.928Z"
+  },
+  {
+    "appName": "Twilio",
+    "description": "# Documentation Page  **Source**: https://twilio.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://twilio.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:52.991Z"
+  },
+  {
+    "appName": "SendGrid",
+    "description": "# Documentation Page  **Source**: https://sendgrid.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://sendgrid.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.049Z"
+  },
+  {
+    "appName": "Mailchimp",
+    "description": "# Documentation Page  **Source**: https://mailchimp.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://mailchimp.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.108Z"
+  },
+  {
+    "appName": "Google Analytics",
+    "description": "# Documentation Page  **Source**: https://google analytics.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2.",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://google analytics.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2.",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.166Z"
+  },
+  {
+    "appName": "Amplitude",
+    "description": "# Documentation Page  **Source**: https://amplitude.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://amplitude.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.221Z"
+  },
+  {
+    "appName": "Mixpanel",
+    "description": "# Documentation Page  **Source**: https://mixpanel.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://mixpanel.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.272Z"
+  },
+  {
+    "appName": "Segment",
+    "description": "# Documentation Page  **Source**: https://segment.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://segment.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.321Z"
+  },
+  {
+    "appName": "Asana",
+    "description": "# Documentation Page  **Source**: https://asana.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://asana.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.371Z"
+  },
+  {
+    "appName": "Monday.com",
+    "description": "# Documentation Page  **Source**: https://monday.com.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Instal",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://monday.com.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Instal",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.421Z"
+  },
+  {
+    "appName": "Jira",
+    "description": "# Documentation Page  **Source**: https://jira.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fire",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://jira.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fire",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.472Z"
+  },
+  {
+    "appName": "Trello",
+    "description": "# Documentation Page  **Source**: https://trello.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://trello.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.523Z"
+  },
+  {
+    "appName": "Notion",
+    "description": "# Documentation Page  **Source**: https://notion.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://notion.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.578Z"
+  },
+  {
+    "appName": "Dropbox",
+    "description": "# Documentation Page  **Source**: https://dropbox.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://dropbox.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.628Z"
+  },
+  {
+    "appName": "Box",
+    "description": "# Documentation Page  **Source**: https://box.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Firec",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://box.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Firec",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.683Z"
+  },
+  {
+    "appName": "OneDrive",
+    "description": "# Documentation Page  **Source**: https://onedrive.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://onedrive.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.736Z"
+  },
+  {
+    "appName": "Google Drive",
+    "description": "# Documentation Page  **Source**: https://google drive.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Inst",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://google drive.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Inst",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.793Z"
+  },
+  {
+    "appName": "GitHub",
+    "description": "# Documentation Page  **Source**: https://github.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://github.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.856Z"
+  },
+  {
+    "appName": "GitLab",
+    "description": "# Documentation Page  **Source**: https://gitlab.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://gitlab.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.908Z"
+  },
+  {
+    "appName": "Bitbucket",
+    "description": "# Documentation Page  **Source**: https://bitbucket.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://bitbucket.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:53.966Z"
+  },
+  {
+    "appName": "Docker",
+    "description": "# Documentation Page  **Source**: https://docker.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://docker.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:54.032Z"
+  },
+  {
+    "appName": "Kubernetes",
+    "description": "# Documentation Page  **Source**: https://kubernetes.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Instal",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://kubernetes.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Instal",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:54.098Z"
+  },
+  {
+    "appName": "Jenkins",
+    "description": "# Documentation Page  **Source**: https://jenkins.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://jenkins.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:54.164Z"
+  },
+  {
+    "appName": "CircleCI",
+    "description": "# Documentation Page  **Source**: https://circleci.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://circleci.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:54.243Z"
+  },
+  {
+    "appName": "GitHub Actions",
+    "description": "# Documentation Page  **Source**: https://github actions.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. In",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://github actions.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. In",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:54.307Z"
+  },
+  {
+    "appName": "Auth0",
+    "description": "# Documentation Page  **Source**: https://auth0.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://auth0.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:54.359Z"
+  },
+  {
+    "appName": "Okta",
+    "description": "# Documentation Page  **Source**: https://okta.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fire",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://okta.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fire",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:54.413Z"
+  },
+  {
+    "appName": "OneLogin",
+    "description": "# Documentation Page  **Source**: https://onelogin.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://onelogin.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:54.480Z"
+  },
+  {
+    "appName": "AWS",
+    "description": "# Documentation Page  **Source**: https://aws.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Firec",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://aws.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Firec",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:54.537Z"
+  },
+  {
+    "appName": "Google Cloud",
+    "description": "# Documentation Page  **Source**: https://google cloud.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Inst",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://google cloud.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Inst",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:54.598Z"
+  },
+  {
+    "appName": "Microsoft Azure",
+    "description": "# Documentation Page  **Source**: https://microsoft azure.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. I",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://microsoft azure.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. I",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:54.674Z"
+  },
+  {
+    "appName": "Heroku",
+    "description": "# Documentation Page  **Source**: https://heroku.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://heroku.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:54.739Z"
+  },
+  {
+    "appName": "DigitalOcean",
+    "description": "# Documentation Page  **Source**: https://digitalocean.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Inst",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://digitalocean.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Inst",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:54.806Z"
+  },
+  {
+    "appName": "Vercel",
+    "description": "# Documentation Page  **Source**: https://vercel.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://vercel.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:54.880Z"
+  },
+  {
+    "appName": "Netlify",
+    "description": "# Documentation Page  **Source**: https://netlify.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://netlify.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:54.945Z"
+  },
+  {
+    "appName": "Figma",
+    "description": "# Documentation Page  **Source**: https://figma.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://figma.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:55.007Z"
+  },
+  {
+    "appName": "Adobe Creative Cloud",
+    "description": "# Documentation Page  **Source**: https://adobe creative cloud.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://adobe creative cloud.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:55.065Z"
+  },
+  {
+    "appName": "Sketch",
+    "description": "# Documentation Page  **Source**: https://sketch.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://sketch.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:55.126Z"
+  },
+  {
+    "appName": "InVision",
+    "description": "# Documentation Page  **Source**: https://invision.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://invision.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:55.201Z"
+  },
+  {
+    "appName": "Canva",
+    "description": "# Documentation Page  **Source**: https://canva.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://canva.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:55.266Z"
+  },
+  {
+    "appName": "Shopify",
+    "description": "# Documentation Page  **Source**: https://shopify.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://shopify.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:55.340Z"
+  },
+  {
+    "appName": "WooCommerce",
+    "description": "# Documentation Page  **Source**: https://woocommerce.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Insta",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://woocommerce.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Insta",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:55.417Z"
+  },
+  {
+    "appName": "Magento",
+    "description": "# Documentation Page  **Source**: https://magento.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://magento.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:55.490Z"
+  },
+  {
+    "appName": "BigCommerce",
+    "description": "# Documentation Page  **Source**: https://bigcommerce.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Insta",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://bigcommerce.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Insta",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:55.549Z"
+  },
+  {
+    "appName": "Square",
+    "description": "# Documentation Page  **Source**: https://square.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://square.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:55.609Z"
+  },
+  {
+    "appName": "PayPal",
+    "description": "# Documentation Page  **Source**: https://paypal.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://paypal.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:55.665Z"
+  },
+  {
+    "appName": "Braintree",
+    "description": "# Documentation Page  **Source**: https://braintree.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://braintree.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:55.719Z"
+  },
+  {
+    "appName": "Adyen",
+    "description": "# Documentation Page  **Source**: https://adyen.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://adyen.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:55.779Z"
+  },
+  {
+    "appName": "Recurly",
+    "description": "# Documentation Page  **Source**: https://recurly.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://recurly.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:55.843Z"
+  },
+  {
+    "appName": "Zuora",
+    "description": "# Documentation Page  **Source**: https://zuora.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://zuora.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:55.901Z"
+  },
+  {
+    "appName": "Chargebee",
+    "description": "# Documentation Page  **Source**: https://chargebee.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://chargebee.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:55.948Z"
+  },
+  {
+    "appName": "PagerDuty",
+    "description": "# Documentation Page  **Source**: https://pagerduty.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://pagerduty.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:55.998Z"
+  },
+  {
+    "appName": "Datadog",
+    "description": "# Documentation Page  **Source**: https://datadog.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://datadog.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.057Z"
+  },
+  {
+    "appName": "New Relic",
+    "description": "# Documentation Page  **Source**: https://new relic.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://new relic.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.105Z"
+  },
+  {
+    "appName": "Sentry",
+    "description": "# Documentation Page  **Source**: https://sentry.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://sentry.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.152Z"
+  },
+  {
+    "appName": "Bugsnag",
+    "description": "# Documentation Page  **Source**: https://bugsnag.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://bugsnag.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.197Z"
+  },
+  {
+    "appName": "Rollbar",
+    "description": "# Documentation Page  **Source**: https://rollbar.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://rollbar.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.243Z"
+  },
+  {
+    "appName": "Intercom",
+    "description": "# Documentation Page  **Source**: https://intercom.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://intercom.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.289Z"
+  },
+  {
+    "appName": "Drift",
+    "description": "# Documentation Page  **Source**: https://drift.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://drift.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.333Z"
+  },
+  {
+    "appName": "Freshdesk",
+    "description": "# Documentation Page  **Source**: https://freshdesk.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://freshdesk.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.379Z"
+  },
+  {
+    "appName": "Helpdesk",
+    "description": "# Documentation Page  **Source**: https://helpdesk.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://helpdesk.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.425Z"
+  },
+  {
+    "appName": "Hootsuite",
+    "description": "# Documentation Page  **Source**: https://hootsuite.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://hootsuite.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.471Z"
+  },
+  {
+    "appName": "Buffer",
+    "description": "# Documentation Page  **Source**: https://buffer.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://buffer.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.517Z"
+  },
+  {
+    "appName": "Sprout Social",
+    "description": "# Documentation Page  **Source**: https://sprout social.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Ins",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://sprout social.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Ins",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.570Z"
+  },
+  {
+    "appName": "Contentful",
+    "description": "# Documentation Page  **Source**: https://contentful.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Instal",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://contentful.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Instal",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.619Z"
+  },
+  {
+    "appName": "Sanity",
+    "description": "# Documentation Page  **Source**: https://sanity.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://sanity.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.666Z"
+  },
+  {
+    "appName": "Strapi",
+    "description": "# Documentation Page  **Source**: https://strapi.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://strapi.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.718Z"
+  },
+  {
+    "appName": "WordPress",
+    "description": "# Documentation Page  **Source**: https://wordpress.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://wordpress.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.768Z"
+  },
+  {
+    "appName": "Webflow",
+    "description": "# Documentation Page  **Source**: https://webflow.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://webflow.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.819Z"
+  },
+  {
+    "appName": "Wix",
+    "description": "# Documentation Page  **Source**: https://wix.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Firec",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://wix.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Firec",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.868Z"
+  },
+  {
+    "appName": "Squarespace",
+    "description": "# Documentation Page  **Source**: https://squarespace.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Insta",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://squarespace.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Insta",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.918Z"
+  },
+  {
+    "appName": "Zapier",
+    "description": "# Documentation Page  **Source**: https://zapier.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://zapier.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:56.969Z"
+  },
+  {
+    "appName": "Make",
+    "description": "# Documentation Page  **Source**: https://make.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fire",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://make.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fire",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.016Z"
+  },
+  {
+    "appName": "IFTTT",
+    "description": "# Documentation Page  **Source**: https://ifttt.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://ifttt.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.064Z"
+  },
+  {
+    "appName": "Airtable",
+    "description": "# Documentation Page  **Source**: https://airtable.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://airtable.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.115Z"
+  },
+  {
+    "appName": "Retool",
+    "description": "# Documentation Page  **Source**: https://retool.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://retool.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.169Z"
+  },
+  {
+    "appName": "Bubble",
+    "description": "# Documentation Page  **Source**: https://bubble.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://bubble.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.219Z"
+  },
+  {
+    "appName": "Supabase",
+    "description": "# Documentation Page  **Source**: https://supabase.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://supabase.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.283Z"
+  },
+  {
+    "appName": "Firebase",
+    "description": "# Documentation Page  **Source**: https://firebase.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://firebase.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.335Z"
+  },
+  {
+    "appName": "MongoDB",
+    "description": "# Documentation Page  **Source**: https://mongodb.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://mongodb.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.388Z"
+  },
+  {
+    "appName": "PostgreSQL",
+    "description": "# Documentation Page  **Source**: https://postgresql.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Instal",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://postgresql.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Instal",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.443Z"
+  },
+  {
+    "appName": "Redis",
+    "description": "# Documentation Page  **Source**: https://redis.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://redis.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fir",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.498Z"
+  },
+  {
+    "appName": "Elasticsearch",
+    "description": "# Documentation Page  **Source**: https://elasticsearch.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Ins",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://elasticsearch.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Ins",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.549Z"
+  },
+  {
+    "appName": "Algolia",
+    "description": "# Documentation Page  **Source**: https://algolia.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://algolia.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.598Z"
+  },
+  {
+    "appName": "Mux",
+    "description": "# Documentation Page  **Source**: https://mux.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Firec",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://mux.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Firec",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.654Z"
+  },
+  {
+    "appName": "Cloudinary",
+    "description": "# Documentation Page  **Source**: https://cloudinary.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Instal",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://cloudinary.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Instal",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.708Z"
+  },
+  {
+    "appName": "Fastly",
+    "description": "# Documentation Page  **Source**: https://fastly.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://fastly.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install Fi",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.761Z"
+  },
+  {
+    "appName": "Cloudflare",
+    "description": "# Documentation Page  **Source**: https://cloudflare.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Instal",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://cloudflare.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Instal",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.811Z"
+  },
+  {
+    "appName": "Auth.js",
+    "description": "# Documentation Page  **Source**: https://auth.js.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://auth.js.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.862Z"
+  },
+  {
+    "appName": "Supabase Auth",
+    "description": "# Documentation Page  **Source**: https://supabase auth.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Ins",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://supabase auth.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Ins",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.913Z"
+  },
+  {
+    "appName": "Cognito",
+    "description": "# Documentation Page  **Source**: https://cognito.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://cognito.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:57.973Z"
+  },
+  {
+    "appName": "Firebase Auth",
+    "description": "# Documentation Page  **Source**: https://firebase auth.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Ins",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://firebase auth.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Ins",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:58.026Z"
+  },
+  {
+    "appName": "Typeform",
+    "description": "# Documentation Page  **Source**: https://typeform.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://typeform.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:58.081Z"
+  },
+  {
+    "appName": "JotForm",
+    "description": "# Documentation Page  **Source**: https://jotform.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://jotform.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install F",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:58.139Z"
+  },
+  {
+    "appName": "Calendly",
+    "description": "# Documentation Page  **Source**: https://calendly.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+    "apiType": "Other",
+    "apiBreadth": "Comprehensive",
+    "hasMcp": false,
+    "integrationBlocker": "No authentication methods found",
+    "toolkitReadiness": "Partial",
+    "evidenceUrls": [],
+    "rawResponse": {
+      "apiType": "Other",
+      "apiBreadth": "Comprehensive",
+      "hasMcp": false,
+      "toolkitReadiness": "Partial",
+      "description": "# Documentation Page  **Source**: https://calendly.com/docs  This is a placeholder documentation page.  To enable real documentation extraction: 1. Set FIRECRAWL_API_KEY in your .env file 2. Install",
+      "integrationBlocker": "No authentication methods found"
+    },
+    "timestamp": "2026-07-09T00:02:58.190Z"
+  }
+]

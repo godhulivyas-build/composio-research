@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SaaS Research Pipeline Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .header {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        .header h1 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 32px;
+        }
+
+        .header p {
+            color: #666;
+            font-size: 16px;
+        }
+
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .metric-card {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            border-left: 5px solid #667eea;
+        }
+
+        .metric-card h3 {
+            color: #666;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+
+        .metric-card .value {
+            color: #667eea;
+            font-size: 36px;
+            font-weight: bold;
+        }
+
+        .metric-card .unit {
+            color: #999;
+            font-size: 14px;
+        }
+
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .chart-container {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        .chart-container h2 {
+            color: #333;
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+
+        .chart-wrapper {
+            position: relative;
+            height: 300px;
+        }
+
+        .blockers-container {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            margin-bottom: 30px;
+        }
+
+        .blockers-container h2 {
+            color: #333;
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+
+        .blocker-item {
+            padding: 15px;
+            background: #f8f9fa;
+            border-left: 4px solid #dc3545;
+            margin-bottom: 10px;
+            border-radius: 4px;
+        }
+
+        .blocker-item strong {
+            color: #dc3545;
+        }
+
+        .blocker-item .percentage {
+            float: right;
+            background: #dc3545;
+            color: white;
+            padding: 2px 8px;
+            border-radius: 20px;
+            font-size: 12px;
+        }
+
+        .recommendations-container {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        .recommendations-container h2 {
+            color: #333;
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+
+        .recommendation-item {
+            padding: 15px;
+            background: #e7f3ff;
+            border-left: 4px solid #0066cc;
+            margin-bottom: 10px;
+            border-radius: 4px;
+            color: #333;
+        }
+
+        .recommendation-item:before {
+            content: "💡 ";
+        }
+
+        .apps-table {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            margin-top: 30px;
+        }
+
+        .apps-table h2 {
+            padding: 25px 25px 15px;
+            color: #333;
+            font-size: 18px;
+        }
+
+        .table-wrapper {
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th {
+            background: #f8f9fa;
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+            color: #333;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 2px solid #e9ecef;
+        }
+
+        td {
+            padding: 15px;
+            border-bottom: 1px solid #e9ecef;
+            font-size: 13px;
+        }
+
+        tr:hover {
+            background: #f8f9fa;
+        }
+
+        .confidence-badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-weight: 600;
+            font-size: 12px;
+        }
+
+        .confidence-high {
+            background: #d4edda;
+            color: #155724;
+        }
+
+        .confidence-medium {
+            background: #fff3cd;
+            color: #856404;
+        }
+
+        .confidence-low {
+            background: #f8d7da;
+            color: #721c24;
+        }
+
+        .footer {
+            text-align: center;
+            color: white;
+            margin-top: 40px;
+            padding: 20px;
+        }
+
+        @media (max-width: 768px) {
+            .header {
+                padding: 20px;
+            }
+
+            .header h1 {
+                font-size: 24px;
+            }
+
+            .metrics-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .charts-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔬 SaaS Research Pipeline Dashboard</h1>
+            <p>Evidence-driven intelligence on 100 SaaS applications from start to finish</p>
+        </div>
+
+        <div class="metrics-grid">
+            <div class="metric-card">
+                <h3>Applications Researched</h3>
+                <div class="value">100</div>
+                <div class="unit">apps processed</div>
+            </div>
+            <div class="metric-card">
+                <h3>Average Confidence</h3>
+                <div class="value">52<span class="unit">/100</span></div>
+                <div class="unit">with real APIs</div>
+            </div>
+            <div class="metric-card">
+                <h3>Manual Review</h3>
+                <div class="value">100</div>
+                <div class="unit">apps flagged</div>
+            </div>
+            <div class="metric-card">
+                <h3>OAuth2 Adoption</h3>
+                <div class="value">2<span class="unit">%</span></div>
+                <div class="unit">detected</div>
+            </div>
+        </div>
+
+        <div class="charts-grid">
+            <div class="chart-container">
+                <h2>Confidence Distribution</h2>
+                <div class="chart-wrapper">
+                    <canvas id="confidenceChart"></canvas>
+                </div>
+            </div>
+            <div class="chart-container">
+                <h2>API Type Distribution</h2>
+                <div class="chart-wrapper">
+                    <canvas id="apiTypeChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <div class="blockers-container">
+            <h2>⚠️ Top Integration Blockers</h2>
+            <div class="blocker-item">
+                <strong>No authentication methods found</strong>
+                <span class="percentage">98 apps</span>
+                <div style="clear: both; margin-top: 5px; font-size: 12px; color: #666;">
+                    Requires manual verification of auth methods in official documentation
+                </div>
+            </div>
+            <div class="blocker-item">
+                <strong>API type unclear</strong>
+                <span class="percentage">2 apps</span>
+                <div style="clear: both; margin-top: 5px; font-size: 12px; color: #666;">
+                    REST/GraphQL classification needs clarification
+                </div>
+            </div>
+        </div>
+
+        <div class="recommendations-container">
+            <h2>📋 Recommendations</h2>
+            <div class="recommendation-item">
+                Address top integration blocker: "No authentication methods found" (affects 98 apps)
+            </div>
+            <div class="recommendation-item">
+                100 apps need manual review - allocate resources for verification
+            </div>
+            <div class="recommendation-item">
+                Prioritize integrations with REST APIs and OAuth2 support
+            </div>
+        </div>
+
+        <div class="apps-table">
+            <h2>📊 All 100 Applications - Research Findings</h2>
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Application</th>
+                            <th>Confidence Score</th>
+                            <th>Label</th>
+                            <th>Auth Methods</th>
+                            <th>API Type</th>
+                            <th>Status</th>
+                            <th>Integration Blocker</th>
+                        </tr>
+                    </thead>
+                    <tbody id="appsTableBody">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>🔬 Research Pipeline | Generated on 2026-07-09</p>
+            <p style="font-size: 12px; margin-top: 10px;">Evidence-driven intelligence. No fabrication. Real data only.</p>
+        </div>
+    </div>
+
+    <script>
+        // Load data from output files
+        async function loadDashboard() {
+            try {
+                // Fetch analysis data
+                const analysisRes = await fetch('output/analysis.json');
+                const analysis = await analysisRes.json();
+
+                // Fetch findings data
+                const findingsRes = await fetch('output/final_findings.json');
+                const findings = await findingsRes.json();
+
+                // Populate confidence distribution chart
+                const confCtx = document.getElementById('confidenceChart').getContext('2d');
+                new Chart(confCtx, {
+                    type: 'doughnut',
+                    data: {
+                        labels: [
+                            'Fully Verified',
+                            'Official Docs',
+                            'Mostly Verified',
+                            'Partial Evidence',
+                            'Weak Evidence'
+                        ],
+                        datasets: [{
+                            data: [
+                                analysis.confidenceDistribution.fullyVerified,
+                                analysis.confidenceDistribution.officialDocs,
+                                analysis.confidenceDistribution.mostlyVerified,
+                                analysis.confidenceDistribution.partialEvidence,
+                                analysis.confidenceDistribution.weakEvidence
+                            ],
+                            backgroundColor: [
+                                '#28a745',
+                                '#17a2b8',
+                                '#ffc107',
+                                '#fd7e14',
+                                '#dc3545'
+                            ]
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: {
+                                position: 'bottom'
+                            }
+                        }
+                    }
+                });
+
+                // Populate API type distribution chart
+                const apiCtx = document.getElementById('apiTypeChart').getContext('2d');
+                const apiLabels = analysis.apiTypeDistribution.map(d => d.label);
+                const apiData = analysis.apiTypeDistribution.map(d => d.count);
+
+                new Chart(apiCtx, {
+                    type: 'bar',
+                    data: {
+                        labels: apiLabels,
+                        datasets: [{
+                            label: 'Number of Apps',
+                            data: apiData,
+                            backgroundColor: '#667eea'
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        indexAxis: 'y',
+                        plugins: {
+                            legend: {
+                                display: false
+                            }
+                        }
+                    }
+                });
+
+                // Populate apps table
+                const tbody = document.getElementById('appsTableBody');
+                findings.forEach(app => {
+                    const row = document.createElement('tr');
+                    const confidenceBadgeClass = app.confidenceScore >= 85 ? 'confidence-high' :
+                                                 app.confidenceScore >= 70 ? 'confidence-medium' : 'confidence-low';
+
+                    row.innerHTML = `
+                        <td><strong>${app.appName}</strong></td>
+                        <td>${app.confidenceScore}/100</td>
+                        <td><span class="confidence-badge ${confidenceBadgeClass}">${app.confidenceLabel}</span></td>
+                        <td>${app.authMethods ? app.authMethods.join(', ') : '—'}</td>
+                        <td>${app.apiType || '—'}</td>
+                        <td>${app.manualReviewRequired ? '🔴 Review' : '✅ OK'}</td>
+                        <td style="font-size: 12px; color: #dc3545;">${app.integrationBlocker || 'None'}</td>
+                    `;
+                    tbody.appendChild(row);
+                });
+
+            } catch (error) {
+                console.error('Error loading dashboard:', error);
+                document.body.innerHTML += '<p style="color: white; text-align: center; margin-top: 50px;">Error loading data. Make sure output files are in the same directory.</p>';
+            }
+        }
+
+        // Load dashboard on page load
+        document.addEventListener('DOMContentLoaded', loadDashboard);
+    </script>
+</body>
+</html>

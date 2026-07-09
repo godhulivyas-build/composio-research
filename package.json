@@ -1,0 +1,50 @@
+{
+  "name": "composio-agent-research",
+  "version": "0.1.0",
+  "description": "Trustworthy AI research pipeline for SaaS application analysis",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  },
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf dist/ output/ reports/",
+    "dev": "node --loader ts-node/esm src/index.ts",
+    "lint": "eslint src/ --ext .ts",
+    "lint:fix": "eslint src/ --ext .ts --fix",
+    "format": "prettier --write src/",
+    "format:check": "prettier --check src/",
+    "type-check": "tsc --noEmit",
+    "test": "node --test --loader ts-node/esm tests/**/*.test.ts",
+    "research": "node --loader ts-node/esm --no-warnings=ExperimentalWarning src/pipeline/research.ts",
+    "verify": "node --loader ts-node/esm --no-warnings=ExperimentalWarning src/pipeline/verify.ts",
+    "score": "node --loader ts-node/esm --no-warnings=ExperimentalWarning src/pipeline/score.ts",
+    "analyze": "node --loader ts-node/esm --no-warnings=ExperimentalWarning src/pipeline/analyze.ts",
+    "pipeline": "npm run research && npm run verify && npm run score && npm run analyze",
+    "generate-report": "node --loader ts-node/esm src/pipeline/report.ts"
+  },
+  "dependencies": {
+    "zod": "^3.22.4",
+    "pino": "^8.16.2",
+    "pino-pretty": "^10.2.3",
+    "dotenv": "^16.3.1",
+    "@anthropic-ai/sdk": "^0.20.0",
+    "@tavily/core": "^0.7.6"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/node": "^20.10.5",
+    "ts-node": "^10.9.2",
+    "eslint": "^8.55.0",
+    "@typescript-eslint/eslint-plugin": "^6.15.0",
+    "@typescript-eslint/parser": "^6.15.0",
+    "prettier": "^3.1.1"
+  },
+  "optionalDependencies": {
+    "playwright": "^1.40.1",
+    "@firecrawl/sdk": "^0.0.25",
+    "tavily-python": "^0.3.0"
+  }
+}

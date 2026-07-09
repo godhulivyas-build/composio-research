@@ -1,0 +1,69 @@
+{
+  "generatedAt": "2026-07-09T00:03:09.887Z",
+  "metrics": {
+    "totalAppsResearched": 100,
+    "appsFullyVerified": 0,
+    "averageConfidenceScore": 52,
+    "appsRequiringReview": 100,
+    "verificationPassRate": 0
+  },
+  "authMethodDistribution": [
+    {
+      "label": "OAuth2",
+      "count": 2,
+      "percentage": 2
+    }
+  ],
+  "oauthAdoption": 2,
+  "apiTypeDistribution": [
+    {
+      "label": "Other",
+      "count": 100,
+      "percentage": 100
+    }
+  ],
+  "restVsGraphql": {
+    "rest": 0,
+    "graphql": 0,
+    "other": 100,
+    "none": 0
+  },
+  "selfServePercentage": 0,
+  "gatedAccessPercentage": 0,
+  "mcpReadyApps": 0,
+  "mcpReadinessPercentage": 0,
+  "toolkitReadyApps": 0,
+  "toolkitReadinessPercentage": 0,
+  "categoryDistribution": [
+    {
+      "label": "Other",
+      "count": 100,
+      "percentage": 100
+    }
+  ],
+  "commonBlockers": [
+    {
+      "blocker": "No authentication methods found",
+      "frequency": 98,
+      "percentage": 98
+    },
+    {
+      "blocker": "API type unclear",
+      "frequency": 2,
+      "percentage": 2
+    }
+  ],
+  "confidenceDistribution": {
+    "fullyVerified": 0,
+    "officialDocs": 0,
+    "mostlyVerified": 0,
+    "partialEvidence": 100,
+    "weakEvidence": 0
+  },
+  "insights": [],
+  "recommendations": [
+    "Address top integration blocker: \"No authentication methods found\" (affects 98 apps)",
+    "100 apps need manual review - allocate resources for verification",
+    "Prioritize integrations with REST APIs and OAuth2 support"
+  ]
+}

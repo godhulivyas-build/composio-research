@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Slack",
+    "description": "Team communication and collaboration platform"
+  },
+  {
+    "name": "Stripe",
+    "description": "Payment processing platform"
+  },
+  {
+    "name": "HubSpot",
+    "description": "CRM and marketing automation platform"
+  }
+]

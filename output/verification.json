@@ -1,0 +1,1716 @@
+[
+  {
+    "appName": "Slack",
+    "verificationsPassed": 0,
+    "verificationsTotal": 2,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "authMethods",
+        "originalClaim": "['OAuth2']",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      },
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:00.520Z"
+  },
+  {
+    "appName": "Stripe",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:00.577Z"
+  },
+  {
+    "appName": "HubSpot",
+    "verificationsPassed": 0,
+    "verificationsTotal": 2,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "authMethods",
+        "originalClaim": "['OAuth2']",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      },
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:00.632Z"
+  },
+  {
+    "appName": "Salesforce",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:00.690Z"
+  },
+  {
+    "appName": "Pipedrive",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:00.748Z"
+  },
+  {
+    "appName": "Zendesk",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:00.802Z"
+  },
+  {
+    "appName": "Twilio",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:00.855Z"
+  },
+  {
+    "appName": "SendGrid",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:00.902Z"
+  },
+  {
+    "appName": "Mailchimp",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:00.948Z"
+  },
+  {
+    "appName": "Google Analytics",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:00.997Z"
+  },
+  {
+    "appName": "Amplitude",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.046Z"
+  },
+  {
+    "appName": "Mixpanel",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.094Z"
+  },
+  {
+    "appName": "Segment",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.144Z"
+  },
+  {
+    "appName": "Asana",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.193Z"
+  },
+  {
+    "appName": "Monday.com",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.240Z"
+  },
+  {
+    "appName": "Jira",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.288Z"
+  },
+  {
+    "appName": "Trello",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.336Z"
+  },
+  {
+    "appName": "Notion",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.381Z"
+  },
+  {
+    "appName": "Dropbox",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.430Z"
+  },
+  {
+    "appName": "Box",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.477Z"
+  },
+  {
+    "appName": "OneDrive",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.524Z"
+  },
+  {
+    "appName": "Google Drive",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.571Z"
+  },
+  {
+    "appName": "GitHub",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.619Z"
+  },
+  {
+    "appName": "GitLab",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.674Z"
+  },
+  {
+    "appName": "Bitbucket",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.726Z"
+  },
+  {
+    "appName": "Docker",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.783Z"
+  },
+  {
+    "appName": "Kubernetes",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.835Z"
+  },
+  {
+    "appName": "Jenkins",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.883Z"
+  },
+  {
+    "appName": "CircleCI",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.929Z"
+  },
+  {
+    "appName": "GitHub Actions",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:01.977Z"
+  },
+  {
+    "appName": "Auth0",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.027Z"
+  },
+  {
+    "appName": "Okta",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.075Z"
+  },
+  {
+    "appName": "OneLogin",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.124Z"
+  },
+  {
+    "appName": "AWS",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.172Z"
+  },
+  {
+    "appName": "Google Cloud",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.218Z"
+  },
+  {
+    "appName": "Microsoft Azure",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.265Z"
+  },
+  {
+    "appName": "Heroku",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.322Z"
+  },
+  {
+    "appName": "DigitalOcean",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.379Z"
+  },
+  {
+    "appName": "Vercel",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.438Z"
+  },
+  {
+    "appName": "Netlify",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.489Z"
+  },
+  {
+    "appName": "Figma",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.539Z"
+  },
+  {
+    "appName": "Adobe Creative Cloud",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.591Z"
+  },
+  {
+    "appName": "Sketch",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.642Z"
+  },
+  {
+    "appName": "InVision",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.696Z"
+  },
+  {
+    "appName": "Canva",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.756Z"
+  },
+  {
+    "appName": "Shopify",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.809Z"
+  },
+  {
+    "appName": "WooCommerce",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.859Z"
+  },
+  {
+    "appName": "Magento",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.912Z"
+  },
+  {
+    "appName": "BigCommerce",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:02.966Z"
+  },
+  {
+    "appName": "Square",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.018Z"
+  },
+  {
+    "appName": "PayPal",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.075Z"
+  },
+  {
+    "appName": "Braintree",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.133Z"
+  },
+  {
+    "appName": "Adyen",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.185Z"
+  },
+  {
+    "appName": "Recurly",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.232Z"
+  },
+  {
+    "appName": "Zuora",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.282Z"
+  },
+  {
+    "appName": "Chargebee",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.331Z"
+  },
+  {
+    "appName": "PagerDuty",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.381Z"
+  },
+  {
+    "appName": "Datadog",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.433Z"
+  },
+  {
+    "appName": "New Relic",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.482Z"
+  },
+  {
+    "appName": "Sentry",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.532Z"
+  },
+  {
+    "appName": "Bugsnag",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.584Z"
+  },
+  {
+    "appName": "Rollbar",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.638Z"
+  },
+  {
+    "appName": "Intercom",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.685Z"
+  },
+  {
+    "appName": "Drift",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.734Z"
+  },
+  {
+    "appName": "Freshdesk",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.799Z"
+  },
+  {
+    "appName": "Helpdesk",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.864Z"
+  },
+  {
+    "appName": "Hootsuite",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.931Z"
+  },
+  {
+    "appName": "Buffer",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:03.992Z"
+  },
+  {
+    "appName": "Sprout Social",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.052Z"
+  },
+  {
+    "appName": "Contentful",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.103Z"
+  },
+  {
+    "appName": "Sanity",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.149Z"
+  },
+  {
+    "appName": "Strapi",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.200Z"
+  },
+  {
+    "appName": "WordPress",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.251Z"
+  },
+  {
+    "appName": "Webflow",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.300Z"
+  },
+  {
+    "appName": "Wix",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.353Z"
+  },
+  {
+    "appName": "Squarespace",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.402Z"
+  },
+  {
+    "appName": "Zapier",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.451Z"
+  },
+  {
+    "appName": "Make",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.500Z"
+  },
+  {
+    "appName": "IFTTT",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.548Z"
+  },
+  {
+    "appName": "Airtable",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.597Z"
+  },
+  {
+    "appName": "Retool",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.644Z"
+  },
+  {
+    "appName": "Bubble",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.693Z"
+  },
+  {
+    "appName": "Supabase",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.741Z"
+  },
+  {
+    "appName": "Firebase",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.793Z"
+  },
+  {
+    "appName": "MongoDB",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.841Z"
+  },
+  {
+    "appName": "PostgreSQL",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.889Z"
+  },
+  {
+    "appName": "Redis",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.936Z"
+  },
+  {
+    "appName": "Elasticsearch",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:04.983Z"
+  },
+  {
+    "appName": "Algolia",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:05.029Z"
+  },
+  {
+    "appName": "Mux",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:05.079Z"
+  },
+  {
+    "appName": "Cloudinary",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:05.127Z"
+  },
+  {
+    "appName": "Fastly",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:05.173Z"
+  },
+  {
+    "appName": "Cloudflare",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:05.222Z"
+  },
+  {
+    "appName": "Auth.js",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:05.269Z"
+  },
+  {
+    "appName": "Supabase Auth",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:05.315Z"
+  },
+  {
+    "appName": "Cognito",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:05.365Z"
+  },
+  {
+    "appName": "Firebase Auth",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:05.412Z"
+  },
+  {
+    "appName": "Typeform",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:05.458Z"
+  },
+  {
+    "appName": "JotForm",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:05.504Z"
+  },
+  {
+    "appName": "Calendly",
+    "verificationsPassed": 0,
+    "verificationsTotal": 1,
+    "passRate": 0,
+    "results": [
+      {
+        "field": "apiType",
+        "originalClaim": "Other",
+        "verified": false,
+        "conflict": false,
+        "evidence": "Not verified in documentation"
+      }
+    ],
+    "flaggedForReview": true,
+    "timestamp": "2026-07-09T00:03:05.553Z"
+  }
+]
