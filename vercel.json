@@ -1,0 +1,10 @@
+{
+  "public": ".",
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/case-study.html"
+    }
+  ]
+}

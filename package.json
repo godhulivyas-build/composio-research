@@ -5,11 +5,10 @@
   "private": true,
   "type": "module",
   "engines": {
-    "node": ">=18.0.0",
-    "pnpm": ">=8.0.0"
+    "node": ">=18.0.0"
   },
   "scripts": {
-    "build": "tsc",
+    "build": "echo 'Static site, no build needed'",
     "clean": "rm -rf dist/ output/ reports/",
     "dev": "node --loader ts-node/esm src/index.ts",
     "lint": "eslint src/ --ext .ts",
